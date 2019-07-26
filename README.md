@@ -3,9 +3,9 @@
 A 3D CNN(Convolution neural network) implementation in Keras for action recognition. This model is working with video.
 
 ### Setup
-*[Datasets download](http://www.nada.kth.se/cvap/actions/)
+#### [Datasets download](http://www.nada.kth.se/cvap/actions/)
     Create a directory "action_recognition_dataset/data" and put all your downloaded in the data folder. And put all your test data in "action_recognition_dataset" directory. 
-*Dependencies
+#### Dependencies
 1. keras
 2. glob
 3. opencv
