@@ -7,7 +7,7 @@ The prediction also takes input a video. So, This model can work in real-time. N
 
 ### Setup
 #### [Datasets download](http://www.nada.kth.se/cvap/actions/)
-    Create a directory "action_recognition_dataset/data" and put all your downloaded in the data folder. And put all your test data in "action_recognition_dataset" directory. 
+   Create a directory "action_recognition_dataset/data" and put all your downloaded in the data folder. And put all your test data in "action_recognition_dataset" directory. 
 #### Dependencies
 1. keras
 2. glob
