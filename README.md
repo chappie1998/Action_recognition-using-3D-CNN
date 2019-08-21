@@ -4,7 +4,7 @@ A 3D CNN(Convolution neural network) implementation in Keras for action recognit
 
 This model architecture and th prediction scripts are such like that, It works on a video and in real time also. Now free to play around the model, change numbers of layers, size, data.
 
-### The basic concept of action recognition using 3D CNN.
+### The basic concept of action recognition using 3D CNN:-
 
 ![alt text](https://github.com/ankitgc1/Action_recognition-using-3D-CNN/blob/master/Action_recognition_using_3D_CNN.jpg)
 
