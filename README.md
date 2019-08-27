@@ -2,7 +2,7 @@
 
 A 3D CNN(Convolution neural network) implementation in Keras for action recognition.This model trained on videos. This model architecture achieved 96% accuracy after some hours of training on my GPU(RTX 2080TI). 
 
-This model architecture and th prediction scripts are such like that, It works on a video and in real time also. Now free to play around the model, change numbers of layers, size, data.
+This model architecture and the prediction scripts are such like that, It works on a video and in real time also. Now free to play around the model, change numbers of layers, size, data.
 
 ### The basic concept of action recognition using 3D CNN:-
 
